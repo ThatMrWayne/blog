@@ -1,0 +1,1 @@
+# Hello, you are in Wayne's blog.
