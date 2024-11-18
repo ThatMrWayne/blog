@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Wayne's BLOG
+subtitle: '許哲瑋'
+description: '| the fourth way believer |'
 keywords:
-author: John Doe
+author: ThatMrWayne
 language: en
-timezone: ''
+timezone: 'Asia/Taipei'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -34,14 +34,14 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+titlecase: true # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 syntax_highlighter: highlight.js
@@ -127,12 +127,12 @@ theme_config:
 
   # Schemes
   #scheme: Muse
-  #scheme: Mist
-  scheme: Pisces
+  scheme: Mist
+  #scheme: Pisces
   #scheme: Gemini
 
   # Dark Mode
-  darkmode: false
+  darkmode: true
 
 
   # ---------------------------------------------------------------
@@ -185,10 +185,10 @@ theme_config:
   # Value before `||` delimiter is the target link, value after `||` delimiter is the name of Font Awesome icon.
   # External url should start with http:// or https://
   menu:
-    #home: / || fa fa-home
-    #about: /about/ || fa fa-user
-    #tags: /tags/ || fa fa-tags
-    #categories: /categories/ || fa fa-th
+    home: / || fa fa-home
+    about: /about/ || fa fa-user
+    tags: /tags/ || fa fa-tags
+    categories: /categories/ || fa fa-th
     #archives: /archives/ || fa fa-archive
     #schedule: /schedule/ || fa fa-calendar
     #sitemap: /sitemap.xml || fa fa-sitemap
@@ -232,9 +232,9 @@ theme_config:
   # Sidebar Avatar
   avatar:
     # Replace the default image and set the url here.
-    url: #/images/avatar.gif
+    url: /images/avatar.jpg #/images/avatar.gif
     # If true, the avatar will be displayed in circle.
-    rounded: false
+    rounded: true
     # If true, the avatar will be rotated with the cursor.
     rotated: false
 
@@ -246,8 +246,8 @@ theme_config:
   # Key is the link label showing to end users.
   # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
   social:
-    #GitHub: https://github.com/yourname || fab fa-github
-    #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
+    GitHub: https://github.com/thatmrwayne || fab fa-github
+    #E-Mail: mailto:xxx@gmail.com || fa fa-envelope
     #Weibo: https://weibo.com/yourname || fab fa-weibo
     #Twitter: https://twitter.com/yourname || fab fa-twitter
     #FB Page: https://www.facebook.com/yourname || fab fa-facebook
@@ -294,16 +294,16 @@ theme_config:
 
   footer:
     # Specify the year when the site was setup. If not defined, current year will be used.
-    #since: 2021
+    since: 2024
 
     # Icon between year and copyright info.
     icon:
       # Icon name in Font Awesome. See: https://fontawesome.com/icons
-      name: fa fa-heart
+      name: fa-solid fa-yin-yang
       # If you want to animate the icon, set it to true.
-      animated: false
+      animated: true
       # Change the color of icon, using Hex Code.
-      color: "#ff0000"
+      color: "#7c7877"
 
     # If not defined, `author` from Hexo `_config.yml` will be used.
     # Set to `false` to disable the copyright statement.
@@ -349,7 +349,7 @@ theme_config:
   # Dependencies: https://github.com/next-theme/hexo-word-counter
   symbols_count_time:
     separated_meta: true
-    item_text_total: false
+    item_text_total: true
 
   # Use icon instead of the symbol # to indicate the tag at the bottom of the post
   tag_icon: false
@@ -436,7 +436,7 @@ theme_config:
     mobile: justify
 
   # Reduce padding / margin indents on devices with narrow width.
-  mobile_layout_economy: false
+  mobile_layout_economy: true
 
   # Browser header panel color.
   theme_color:
@@ -478,7 +478,7 @@ theme_config:
 
   # Reading progress bar
   reading_progress:
-    enable: false
+    enable: true
     # Available values: left | right
     start_at: left
     # Available values: top | bottom
@@ -498,8 +498,8 @@ theme_config:
 
   # `Follow me on GitHub` banner in the top-right corner.
   github_banner:
-    enable: false
-    permalink: https://github.com/yourname
+    enable: true
+    permalink: https://github.com/thatmrwayne
 
 
   # ---------------------------------------------------------------
@@ -719,25 +719,25 @@ theme_config:
     async: false
     transition:
       # All available transition variants: https://theme-next.js.org/animate/
-      menu_item: fadeInDown
-      post_block: fadeIn
-      post_header: fadeInDown
-      post_body: fadeInDown
-      coll_header: fadeInLeft
+      menu_item: false
+      post_block: false
+      post_header: false
+      post_body: false
+      coll_header: false
       # Only for Pisces | Gemini.
       sidebar: fadeInUp
 
   # Progress bar in the top during page loading.
   # For more information: https://github.com/CodeByZach/pace
   pace:
-    enable: false
+    enable: true
     # All available colors:
     # black | blue | green | orange | pink | purple | red | silver | white | yellow
-    color: blue
+    color: black
     # All available themes:
     # big-counter | bounce | barber-shop | center-atom | center-circle | center-radar | center-simple
     # corner-indicator | fill-left | flat-top | flash | loading-bar | mac-osx | material | minimal
-    theme: minimal
+    theme: flat-top
 
   # Generate a ribbon in your website with HTML5 canvas.
   # For more information: https://github.com/hustcc/ribbon.js
