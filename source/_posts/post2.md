@@ -63,7 +63,7 @@ Python store integer in a bignum fashion separating the signed part and magnitud
 
     # The value of this integer wiil be:
     base = 2**30
-    10 * (base)**0 + 3 * (base)**2 + 5 * (base)**3
+    10 * (base)**0 + 3 * (base)**1 + 5 * (base)**2
     ```
 
     And remember the count of digits of this example is `3`(the length of array is 3) , which will be refered to in the below part.
