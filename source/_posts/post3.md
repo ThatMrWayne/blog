@@ -236,7 +236,7 @@ list 不再分成兩部分, 分成三部分 `<pivot , =pivot , >pivot`。
 
     # 最終結果
     [1, 1 | 2, 2, 2, 2, 2 | 4]
-        lt           gt
+            lt          gt
     ```
 
     ```python
