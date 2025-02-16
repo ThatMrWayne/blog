@@ -3,6 +3,7 @@ layout: publish
 title: Int in Python
 date: 2024-11-22 22:34:41
 tags: [Python]
+categories: [Technical]
 ---
 
 {% asset_img INT.png int %}

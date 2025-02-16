@@ -2,6 +2,7 @@
 title: Quick Sort
 date: 2025-02-09 13:36:28
 tags: [Algorithm]
+categories: [Technical]
 ---
 
 {% asset_img quick_sort.png int %}

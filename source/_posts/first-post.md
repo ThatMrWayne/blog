@@ -2,6 +2,7 @@
 title: Opening Post
 date: 2024-11-19 00:00:00
 tags:
+categories: [Technical]
 ---
 
 {% asset_img fuji.jpg fuji %}

@@ -248,7 +248,7 @@ theme_config:
   # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
   social:
     GitHub: https://github.com/thatmrwayne || fab fa-github
-    #E-Mail: mailto:xxx@gmail.com || fa fa-envelope
+    LinkedIn: https://www.linkedin.com/in/mrwaynehsu/ || fab fa-linkedin
     #Weibo: https://weibo.com/yourname || fab fa-weibo
     #Twitter: https://twitter.com/yourname || fab fa-twitter
     #FB Page: https://www.facebook.com/yourname || fab fa-facebook

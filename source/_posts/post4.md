@@ -2,6 +2,7 @@
 title: 2025 Reading List
 date: 2025-02-15 12:45:15
 tags: [2025閱讀書單]
+categories: [Life]
 ---
 
 {% asset_img reading_list.png rl %}
