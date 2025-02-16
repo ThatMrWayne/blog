@@ -10,7 +10,7 @@ date: 2024-11-18 16:52:58
         最近迷上了<a href="https://channel.circles.tw/books/11">第四道</a>，<br>
         真心感謝你/妳來到這裡。
     </div>
-    <img src="/blog/images/about.jpg" alt="your description" style="width: 300px;" />
+    <img src="/blog/images/about.jpg" alt="your description" style="width: 250px; height: auto; object-fit: contain;" />
 </div>
 
 <div style="margin-top: 30px; padding: 25px; background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1);">
