@@ -13,4 +13,13 @@ date: 2024-11-18 16:52:58
     <img src="/blog/images/about.jpg" alt="your description" style="width: 300px;" />
 </div>
 
+<div style="margin-top: 30px; padding: 25px; background: white; border-radius: 8px; box-shadow: 0 2px 15px rgba(0,0,0,0.1);">
+    <div style="text-align: center;">
+        <div style="font-size: 1.2em; color: #333; font-weight: 300;">
+            "我們對顯而易見的東西看不見，我們也看不見自己的看不見"</br>
+            "We are blind to the obvious, and we are blind to our own blindness."
+        </div>
+    </div>
+</div>
+
 
