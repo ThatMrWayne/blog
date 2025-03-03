@@ -33,3 +33,4 @@ Let's see what this list will look like at the end of the year.
 
 1. [《Headspace冥想正念手冊》- Andy Puddicombe](https://www.books.com.tw/products/0010820792?srsltid=AfmBOope54e8pz0rx3pT7esGTF5OUz0HkdNzoK0KNxpIeDWv4wbNYA3N)
 
+2. [《松果體的奇蹟》- 松久正](https://www.books.com.tw/products/0010814268?srsltid=AfmBOooNF9ImWrtWsmSGFL8g96lLdSEjVD5kQepTbVixkygEh0paStYV)
