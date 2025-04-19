@@ -59,7 +59,7 @@ Hexo 為專門用於建立網誌的框架，主要撰寫 markdown 格式檔案�
     ```
     接著將 `_config.next.yml` 裡面的內容整份複製到 Hexo 的 `_config.yml` 檔，這邊複製後的內容要縮排兩個空格，且在上面加上 `theme_config` key，
     最後記得將 `theme` 改成 `next`。
-{% asset_img theme_config.png theme_config %}
+    {% asset_img theme_config.png theme_config %}
 
     這時候重啟 server 可以看到不一樣的頁面。
     ```sh
