@@ -39,11 +39,9 @@ jobs:
 
     - name: Update _config.yml with secrets
       run: |
-        # Create a backup of the original config
-        cp _config.yml _config.yml.bak
-
-        sed -i "s/FIRESTORE_API_KEY/${{ secrets.FIRESTORE_API_KEY }}/g" _config.yml
-        sed -i "s/FIRESTORE_PROJECT_ID/${{ secrets.FIRESTORE_PROJECT_ID }}/g" _config.yml
+        # replace firestroe config in /themes/next/_config.yml
+        sed -i "s/FIRESTORE_API_KEY/${{ secrets.FIRESTORE_API_KEY }}/g" /themes/next/_config.yml
+        sed -i "s/FIRESTORE_PROJECT_ID/${{ secrets.FIRESTORE_PROJECT_ID }}/g" /themes/next/_config.yml
 
     - name: Build
       run: npm run build
