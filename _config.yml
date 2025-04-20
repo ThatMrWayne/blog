@@ -922,8 +922,8 @@ theme_config:
   firestore:
     enable: true
     collection: articles # Required, a string collection name to access firestore database
-    apiKey: # Required
-    projectId: # Required
+    apiKey: FIRESTORE_API_KEY # Required
+    projectId: FIRESTORE_PROJECT_ID # Required
 
   # Show Views / Visitors of the website / page with busuanzi.
   # For more information: http://ibruce.info/2015/04/04/busuanzi/

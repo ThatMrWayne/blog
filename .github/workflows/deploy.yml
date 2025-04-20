@@ -43,10 +43,6 @@ jobs:
         sed -i "s/FIRESTORE_API_KEY/${{ secrets.FIRESTORE_API_KEY }}/g" _config.yml
         sed -i "s/FIRESTORE_PROJECT_ID/${{ secrets.FIRESTORE_PROJECT_ID }}/g" _config.yml
 
-        # Update theme config
-        sed -i "s/FIRESTORE_API_KEY/${{ secrets.FIRESTORE_API_KEY }}/g" ./themes/next/_config.yml
-        sed -i "s/FIRESTORE_PROJECT_ID/${{ secrets.FIRESTORE_PROJECT_ID }}/g" ./themes/next/_config.yml
-
     - name: Build
       run: npm run build
 
