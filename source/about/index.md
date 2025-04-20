@@ -1,6 +1,7 @@
 ---
 title: about
 date: 2024-11-18 16:52:58
+comments: false
 ---
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
