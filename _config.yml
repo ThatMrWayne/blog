@@ -920,10 +920,10 @@ theme_config:
   # Visit https://console.firebase.google.com/u/0/ to get apiKey and projectId.
   # Visit https://firebase.google.com/docs/firestore/ to get more information about firestore.
   firestore:
-    enable: true
+    enable: false
     collection: articles # Required, a string collection name to access firestore database
-    apiKey: FIRESTORE_API_KEY # Required
-    projectId: FIRESTORE_PROJECT_ID # Required
+    apiKey: # Required
+    projectId: # Required
 
   # Show Views / Visitors of the website / page with busuanzi.
   # For more information: http://ibruce.info/2015/04/04/busuanzi/
