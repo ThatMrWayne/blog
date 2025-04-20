@@ -140,9 +140,9 @@ theme_config:
   # ---------------------------------------------------------------
 
   favicon:
-    small: /images/favicon-16x16-next.png
-    medium: /images/favicon-32x32-next.png
-    apple_touch_icon: /images/apple-touch-icon-next.png
+    small: /images/favicon-16x16.png
+    medium: /images/favicon-32x32.png
+    apple_touch_icon: /images/apple-touch-icon.png
     safari_pinned_tab: /images/logo.svg
     #android_manifest: /manifest.json
 
@@ -462,9 +462,9 @@ theme_config:
       dark: prism-dark
     # Add copy button on codeblock
     copy_button:
-      enable: false
+      enable: true
       # Available values: default | flat | mac
-      style:
+      style: mac
     # Fold code block
     fold:
       enable: false
@@ -473,7 +473,7 @@ theme_config:
   back2top:
     enable: true
     # Back to top in sidebar.
-    sidebar: false
+    sidebar: true
     # Scroll percent label in b2t button.
     scrollpercent: false
 
@@ -607,9 +607,9 @@ theme_config:
   # Tabs tag
   tabs:
     # Make the nav bar of tabs with long content stick to the top.
-    sticky: false
+    sticky: true
     transition:
-      tabs: false
+      tabs: true
       labels: true
 
   # PDF tag
