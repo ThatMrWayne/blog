@@ -1,7 +1,7 @@
 ---
 title: Opening Post
 date: 2024-11-19 00:00:00
-tags:
+tags: [Hexo]
 categories: [Technical]
 ---
 
