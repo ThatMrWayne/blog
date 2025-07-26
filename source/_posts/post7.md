@@ -5,6 +5,8 @@ tags: [Hexo]
 categories: [Technical]
 ---
 
+{% asset_img post7_title.png rl %}
+
 有關 Hexo 設定分享...
 
 
