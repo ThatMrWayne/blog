@@ -27,7 +27,6 @@ Let's see what this list will look like at the end of the year.
 
 2. [《快思慢想》- Daniel Kahneman](https://www.books.com.tw/products/0010962486?srsltid=AfmBOoqlY19axT3D_-90HVVqCg0-2C7RRECAVkBXiDacaCtkdg0I_rVT)
 
-3. [《系統之鬼》- Garrett Gee](https://www.eslite.com/product/10012014082682901737001?srsltid=AfmBOoqnwraIdVYu0AlUpHuNov4cY2agSV5HayNH6AaacdcdbNU9Cj7e)
 
 ---
 
@@ -42,3 +41,7 @@ Let's see what this list will look like at the end of the year.
 4. [《多巴胺國度: 在縱慾年代找到身心平衡》- Anna Lembke](https://www.eslite.com/product/1001126122682340889002?srsltid=AfmBOorCTJC_yVtYd95tRPAEVqUmuoees82bvZ7_Xkt9QE00tJqT_6wd)
 
 5. [《回到生命的喜馬拉雅》- 王文靜](https://www.books.com.tw/products/0011023380?gad_source=1&gad_campaignid=833752544&gbraid=0AAAAAD4DKPxvKCwNcHO9oo-yY-quqgcpl&gclid=Cj0KCQjw-ZHEBhCxARIsAGGN96IXa3jQ9Z1NKZeMHu6agZNAgqmMeEU1SaDA1TFDEiZGSYWV2BREfqkaAhC3EALw_wcB)
+
+6. [《系統之鬼》- Garrett Gee](https://www.eslite.com/product/10012014082682901737001?srsltid=AfmBOoqnwraIdVYu0AlUpHuNov4cY2agSV5HayNH6AaacdcdbNU9Cj7e)
+
+7. [《我可能錯了: 森林智者的最後一堂人生課》- 比約恩．納提科．林德布勞](https://www.eslite.com/product/1001124182682324108006?srsltid=AfmBOoqu_sziu7Kbl9RdwurqgqPgIsRnxP_NcYN13opOoaAuZZIO_XFk)
