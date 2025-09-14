@@ -1,7 +1,7 @@
 ---
 title: Hexo 其他功能設定
 date: 2025-04-27 10:49:50
-tags: [Hexo]
+tags: [hexo]
 categories: [Technical]
 ---
 
@@ -12,8 +12,8 @@ categories: [Technical]
 
 <!-- more -->
 
-部落格弄好後也過了一陣子，  
-最近受到前輩建議可以加些基本的功能，  
+部落格弄好後也過了一陣子，
+最近受到前輩建議可以加些基本的功能，
 至少看起來不那麼陽春...
 
 ---
